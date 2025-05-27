@@ -2,7 +2,7 @@
 
 **Time Logger** is a simple PHP-based web application designed to help users track their time efficiently. It provides functionalities for user registration, login, and logging time entries.
 
-## Live-preview
+## 🛜 Live-preview
 
 https://ky-time-logger.free.nf/register.php
 
