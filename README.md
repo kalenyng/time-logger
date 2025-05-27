@@ -2,6 +2,10 @@
 
 **Time Logger** is a simple PHP-based web application designed to help users track their time efficiently. It provides functionalities for user registration, login, and logging time entries.
 
+## Live-preview
+
+https://ky-time-logger.free.nf/register.php
+
 ## ✨ Features
 
 - 👤 User Registration and Authentication
@@ -58,7 +62,3 @@
 ## 🤝 Contributing
 
 Contributions are welcome! Please 🍴 fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
